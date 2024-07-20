@@ -12,7 +12,7 @@ There are some gates were I can test all the possible inputs but there are other
 ![XOR gate test bench waves.](/media/xor_testbench_snippet.png)
 ![ALU test benchwaves.](/media/alu_testbench_snippets.png)
 
-This week feels like the basics but as I wanted every bit of the computer from the nand gate I've spent a lot of time implementing a lot of repetitive blocks as it can be the case with Or8Way, Mux16, Dmux16, etc. 
+These first steps feel very basic but as I wanted every bit of the computer from the nand gate I've spent a lot of time implementing a lot of repetitive blocks as it can be the case with Or8Way, Mux16, Dmux16, etc. 
 
 The next step for the next week would be to fully test the ALU and start implementing the memory part of the computer.
-You can check the progress at: GitHub repo
+You can check the progress at: [my github repo](https://github.com/marc-marcos/von-neumann-cpu-verilog) 
