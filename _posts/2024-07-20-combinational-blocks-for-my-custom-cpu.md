@@ -5,7 +5,7 @@ This week I've started to port the Hack computer from the nand2tetris course to 
 In this first week I've built all the fundamental gates (and, or, nor, xor, not...) some multiplexers (mux, mux16, dmux...), some combinational circuits (half adder, full adder, add16, inc16) and finally the ALU. I've also tested every one of them except the ALU that I have to test still.
 I've developed them using a plain text editor, iverilog for compiling it and gtkwave to visualize the result. 
 
-![add16 snippet in Verilog.](/_posts/media/add16_snippet.png)
+![add16 snippet in Verilog.](/media/add16_snippet.png)
 
 There are some gates were I can test all the possible inputs but there are others (like add16 or the ALU) where it's impractical. In those cases I've used randomised inputs.
 
