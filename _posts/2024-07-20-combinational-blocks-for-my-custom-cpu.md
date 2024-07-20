@@ -9,8 +9,8 @@ I've developed them using a plain text editor, iverilog for compiling it and gtk
 
 There are some gates were I can test all the possible inputs but there are others (like add16 or the ALU) where it's impractical. In those cases I've used randomised inputs.
 
-![XOR gate test bench waves.](/_posts/media/xor_testbench_snippet.png)
-![ALU test benchwaves.](/_posts/media/alu_testbench_snippets.png)
+![XOR gate test bench waves.](/media/xor_testbench_snippet.png)
+![ALU test benchwaves.](/media/alu_testbench_snippets.png)
 
 This week feels like the basics but as I wanted every bit of the computer from the nand gate I've spent a lot of time implementing a lot of repetitive blocks as it can be the case with Or8Way, Mux16, Dmux16, etc. 
 
